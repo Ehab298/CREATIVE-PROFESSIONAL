@@ -1,0 +1,63 @@
+*{
+
+
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    
+    
+}
+.fix-left h{
+color: rgba(241, 245, 10, 0);
+
+}
+.fix_postion{
+
+    margin-top: 20px;
+}
+.top_6{
+
+    padding: 12px 20px;
+    background-color: orange;
+    border: none;
+    color: white;
+    border-radius: 30px;
+    text-decoration: none;
+ }
+ .top_6:hover{
+     background: green;
+     color:black;
+     border: 2px solid red;
+     text-decoration: none;
+
+    
+ }
+ .myiput{
+
+    margin: 0px 198px 0px 17px;
+ }
+ .american_icons{
+     display:inline;
+ }
+ .bottom_img {
+     width: 100%;
+    background-image: url("../images/6.png");
+  height: 500px; 
+  background-position: center; /* Center the image */
+  background-repeat: no-repeat;
+  background-size: cover; 
+  background-attachment: fixed;
+  color: white;
+  filter: grayscale(50%);
+  overflow: hidden;
+ }
+ 
+
+h5{
+    margin-bottom: 30px;
+}
+
+.circle-icon {
+    padding:30px;
+    border-radius: 50%;
+}
